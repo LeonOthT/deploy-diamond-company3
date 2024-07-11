@@ -1,0 +1,17 @@
+body {
+  background-color: #100e14;
+  color: white;
+  list-style: none;
+  text-decoration: none;
+  font-family: "SF Mono";
+  padding: 0;
+  margin: 0;
+}
+
+.active {
+  color: green;
+}
+
+/* code {
+  color: #140d21;
+} */
